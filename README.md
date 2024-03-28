@@ -54,7 +54,7 @@ Run in PORT 5000
 
 
 ## Access to the App
-After the backend frontend server are running, access http://localhost:5000 
+After both the backend and frontend server are running, access http://localhost:5000 
 
 
 ## How to use
