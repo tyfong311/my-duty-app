@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist", // Output directory for compiled TypeScript files
+    "rootDir": "./src", // Source directory for TypeScript files
+    "esModuleInterop": true // Enable ES module interop
+  },
+  "include": ["src/**/*.ts", "index.ts", "src/test/isInteger.js", "src/test/isInteger.js", "src/test/isAtLeast18.js", "src/test/isAtLeast18.js", "src/test/isInteger.js"],
+  "exclude": ["node_modules"]
+}
