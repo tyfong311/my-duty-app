@@ -50,7 +50,6 @@ const AddDuty = (props:  Props) => {
                 const errorMessage = errorData.error || 'Something went wrong. Please try again later.';
                 throw new Error(errorMessage);
             }
-            const responseData = await response.json();
 
             Modal.success({
                 title: 'Success',

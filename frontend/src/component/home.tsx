@@ -10,10 +10,6 @@ const Home = () => {
     const [shouldFetchDuties, setShouldFetchDuties] = useState(true); 
 
 
-    const showListPage = () => {
-        refreshList();
-    };
-
     const refreshList = () => {
         setShouldFetchDuties(true);
     }
