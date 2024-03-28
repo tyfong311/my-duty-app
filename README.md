@@ -74,6 +74,9 @@ After both the backend and frontend server are running, access http://localhost:
 ![duty list page](screencap/add_duty_dialog_typed.png)
 ![duty list page](screencap/add_duty_success.png)
 
+Failed if entered duplicate ID
+![duty list page](screencap/add_duty_failed_duplicate_key.png)
+
 **2. Update the existing Duty**
 
 ![duty list page](screencap/update_duty_dialog.png)
